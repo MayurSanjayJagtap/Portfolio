@@ -1,0 +1,23 @@
+{
+  "name": "primary",
+  "version": "1.0.0",
+  "description": "This portfolio follows the same overall design direction as the Shubham Kale portfolio: - premium dark developer aesthetic - hero section with portrait card - About / Experience / Projects / Skills / Certifications / Contact - responsive mobile, tablet and desktop layout - supplied resume and profile photo included",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MayurSanjayJagtap/Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MayurSanjayJagtap/Portfolio/issues"
+  },
+  "homepage": "https://github.com/MayurSanjayJagtap/Portfolio#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
